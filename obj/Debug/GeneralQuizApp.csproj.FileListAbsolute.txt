@@ -1,0 +1,17 @@
+c:\users\striker\documents\visual studio 2015\Projects\GeneralQuizApp\bin\Debug\GeneralQuizApp.exe.config
+c:\users\striker\documents\visual studio 2015\Projects\GeneralQuizApp\bin\Debug\GeneralQuizApp.exe
+c:\users\striker\documents\visual studio 2015\Projects\GeneralQuizApp\bin\Debug\GeneralQuizApp.pdb
+c:\users\striker\documents\visual studio 2015\Projects\GeneralQuizApp\bin\Debug\BCrypt.Net-Next.dll
+c:\users\striker\documents\visual studio 2015\Projects\GeneralQuizApp\bin\Debug\BCrypt.Net-Next.xml
+c:\users\striker\documents\visual studio 2015\Projects\GeneralQuizApp\obj\Debug\GeneralQuizApp.csprojResolveAssemblyReference.cache
+c:\users\striker\documents\visual studio 2015\Projects\GeneralQuizApp\obj\Debug\GeneralQuizApp.SgnUp.resources
+c:\users\striker\documents\visual studio 2015\Projects\GeneralQuizApp\obj\Debug\GeneralQuizApp.Properties.Resources.resources
+c:\users\striker\documents\visual studio 2015\Projects\GeneralQuizApp\obj\Debug\GeneralQuizApp.csproj.GenerateResource.Cache
+c:\users\striker\documents\visual studio 2015\Projects\GeneralQuizApp\obj\Debug\GeneralQuizApp.exe
+c:\users\striker\documents\visual studio 2015\Projects\GeneralQuizApp\obj\Debug\GeneralQuizApp.pdb
+c:\users\striker\documents\visual studio 2015\Projects\GeneralQuizApp\obj\Debug\GeneralQuizApp.Login.resources
+c:\users\striker\documents\visual studio 2015\Projects\GeneralQuizApp\obj\Debug\GeneralQuizApp.AdminDash.resources
+c:\users\striker\documents\visual studio 2015\Projects\GeneralQuizApp\obj\Debug\GeneralQuizApp.StudentDash.resources
+C:\Users\STRIKER\Documents\Visual Studio 2015\Projects\WednesdayGenQuiz\bin\Debug\GeneralQuizApp.exe.config
+C:\Users\STRIKER\Documents\Visual Studio 2015\Projects\WednesdayGenQuiz\obj\Debug\GeneralQuizApp.exe
+C:\Users\STRIKER\Documents\Visual Studio 2015\Projects\WednesdayGenQuiz\obj\Debug\GeneralQuizApp.pdb
