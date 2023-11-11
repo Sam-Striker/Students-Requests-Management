@@ -15,3 +15,17 @@ c:\users\striker\documents\visual studio 2015\Projects\GeneralQuizApp\obj\Debug\
 C:\Users\STRIKER\Documents\Visual Studio 2015\Projects\WednesdayGenQuiz\bin\Debug\GeneralQuizApp.exe.config
 C:\Users\STRIKER\Documents\Visual Studio 2015\Projects\WednesdayGenQuiz\obj\Debug\GeneralQuizApp.exe
 C:\Users\STRIKER\Documents\Visual Studio 2015\Projects\WednesdayGenQuiz\obj\Debug\GeneralQuizApp.pdb
+C:\Users\STRIKER\Documents\Visual Studio 2015 older\Projects\GeneralQuizApp\bin\Debug\GeneralQuizApp.exe.config
+C:\Users\STRIKER\Documents\Visual Studio 2015 older\Projects\GeneralQuizApp\obj\Debug\GeneralQuizApp.exe
+C:\Users\STRIKER\Documents\Visual Studio 2015 older\Projects\GeneralQuizApp\obj\Debug\GeneralQuizApp.pdb
+C:\Users\STRIKER\Documents\Visual Studio 2015 older\Projects\GeneralQuizApp\bin\Debug\GeneralQuizApp.exe
+C:\Users\STRIKER\Documents\Visual Studio 2015 older\Projects\GeneralQuizApp\bin\Debug\GeneralQuizApp.pdb
+C:\Users\STRIKER\Documents\Visual Studio 2015 older\Projects\GeneralQuizApp\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\STRIKER\Documents\Visual Studio 2015 older\Projects\GeneralQuizApp\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\STRIKER\Documents\Visual Studio 2015 older\Projects\GeneralQuizApp\obj\Debug\GeneralQuizApp.csprojResolveAssemblyReference.cache
+C:\Users\STRIKER\Documents\Visual Studio 2015 older\Projects\GeneralQuizApp\obj\Debug\GeneralQuizApp.AdminDash.resources
+C:\Users\STRIKER\Documents\Visual Studio 2015 older\Projects\GeneralQuizApp\obj\Debug\GeneralQuizApp.Login.resources
+C:\Users\STRIKER\Documents\Visual Studio 2015 older\Projects\GeneralQuizApp\obj\Debug\GeneralQuizApp.SgnUp.resources
+C:\Users\STRIKER\Documents\Visual Studio 2015 older\Projects\GeneralQuizApp\obj\Debug\GeneralQuizApp.Properties.Resources.resources
+C:\Users\STRIKER\Documents\Visual Studio 2015 older\Projects\GeneralQuizApp\obj\Debug\GeneralQuizApp.StudentDash.resources
+C:\Users\STRIKER\Documents\Visual Studio 2015 older\Projects\GeneralQuizApp\obj\Debug\GeneralQuizApp.csproj.GenerateResource.Cache
